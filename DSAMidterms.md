@@ -13,4 +13,15 @@
 6. Open visual studio code by typing "code ." (*Make sure that VSCode is already downloaded and installed in your device*).  
 7. Go to terminal and switch to command prompt.  
 8. Turn on Autosave and Download the "Convetional Commits" Extension.  
-9. Create a new file "helloWorld.html" (*The file should also appear in the folder that is previously created*)  
+9. Create a new file "helloWorld.html" (*The file should also appear in the folder that is previously created*).  
+10. Create an account in https://github.com and use this account in Git.  
+11. Create a public respository in GitHub.  
+12. Copy the following from codemy:  
+
+  git config --global user.name "Your Name"  
+  git config --global user.email "you@youraddress.com"  
+  git config --global push.default matching  
+  git config --global alias.co checkout
+  git init  
+
+13.
