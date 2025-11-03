@@ -11,10 +11,10 @@
 5. Open the command prompt by typing "cmd".  
 6. Open visual studio code by typing "code ." (*Make sure that VSCode is already downloaded and installed in your device*).  
 7. Go to terminal and switch to command prompt.  
-8. Turn on Autosave and Download the "Convetional Commits" Extension.  
+8. Turn on Autosave and Download the "Conventional Commits" Extension.  
 9. Create a new file "helloWorld.html" (*The file should also appear in the folder that is previously created*).  
 10. Create an account in https://github.com and use this account in Git.  
-11. Create a public respository in GitHub.  
+11. Create a public repository in GitHub.  
 12. Copy the following from codemy and type it in Git Bash:  
 
   git config --global user.name "Your Name"  
@@ -23,7 +23,7 @@
   git config --global alias.co checkout
   git init  
 
-13. Create "README.md" file and type the following on the commad line:
+13. Create "README.md" file and type the following on the command line:
 
   git init  
   git add README.md  
@@ -39,7 +39,7 @@
 1. Go to Source Control.  
 2. Stage Changes by pressing "+".  
 3. Commit changes by pressing "o".  
-4. Sync changes and referesh GitHub.  
+4. Sync changes and refresh GitHub.  
 5. If done correctly, all changes should be synced in your GitHub. 
 
 ### To clone your repository to other devices.
