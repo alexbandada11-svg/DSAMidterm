@@ -1,7 +1,8 @@
-# How to Set up Git and GitHub
-
 **Name:**  Bandada, Alexander H.  
 **Section:** BSCpE 1-1
+
+## How to Set up Git and GitHub
+
 
 1. Go to https://git-scm.com/.  
 2. Download and Install Git based on your OS.  
@@ -37,5 +38,15 @@
 
 1. Go to Source Control.  
 2. Stage Changes by pressing "+".  
-3. Commit changes by pressig "o".  
-4. 
+3. Commit changes by pressing "o".  
+4. Sync changes and referesh GitHub.  
+5. If done correctly, all changes should be synced in your GitHub. 
+
+### To clone your repository to other devices.
+
+1. Click the code dropdown on GitHub.  
+2. Copy URL  
+3. On your other device, create a new folder.  
+4. Right-click on the folder and click Git Bash.  
+5. type "$ git clone" and paste the URL.  
+6. If done correctly, the clone should be accurate to your original repository.  
