@@ -3,8 +3,6 @@
 **Name:**  Bandada, Alexander H.  
 **Section:** BSCpE 1-1
 
-## Set up Git
-
 1. Go to https://git-scm.com/.  
 2. Download and Install Git based on your OS.  
 3. Create a file and right-click to verify if Git is properly installed (*If Git Bash appears, it means that it is properly installed*).  
@@ -16,7 +14,7 @@
 9. Create a new file "helloWorld.html" (*The file should also appear in the folder that is previously created*).  
 10. Create an account in https://github.com and use this account in Git.  
 11. Create a public respository in GitHub.  
-12. Copy the following from codemy:  
+12. Copy the following from codemy and type it in Git Bash:  
 
   git config --global user.name "Your Name"  
   git config --global user.email "you@youraddress.com"  
@@ -24,4 +22,20 @@
   git config --global alias.co checkout
   git init  
 
-13.
+13. Create "README.md" file and type the following on the commad line:
+
+  git init  
+  git add README.md  
+  git commit -m "first commit"  
+  git branch -M main  
+  git remote add origin https://github.com/Desktop/Bandada,Alexander_DSAMidterms  
+  git push -u origin main  
+
+14. Create an HTML file (*Anything typed in the HTML file should be synced in the folder that is created previously*).  
+
+## Commit and Push Changes to GitHub
+
+1. Go to Source Control.  
+2. Stage Changes by pressing "+".  
+3. Commit changes by pressig "o".  
+4. 
